@@ -1,5 +1,8 @@
 # DP_KCK_BankAPP
-Przerobiona wersja programu DP_PO_Bank, wzbogacona o GUI menu tekstowe. Do jego działania potrzebna jest biblioteka Lanterna 2.1.8. Do pobrania http://www.java2s.com/example/jar/l/download-lanterna218jar-file.html
+
+![obraz](https://user-images.githubusercontent.com/87314459/203962940-a8d37793-5d28-485a-a8d4-1a7584fdc890.png)
+
+Przerobiona wersja programu DP_PO_Bank, wzbogacona o graficzny interfejs użytkownika.
 
 Poprawiłem backend, aby wykorzystać go w tym i kolejnym projekcie.
 
