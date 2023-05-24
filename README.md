@@ -13,6 +13,19 @@ This project implements new UI. You can navigate trough menu using arrow keys an
 
 ![obraz](https://github.com/DawidPerkowskiGit/DP_KCK_BankAPP/assets/87314459/f1923ce0-16be-4bec-ae07-90aa4909e652)
 
+# Available functions
+
+1 - Show list of clients  
+2 - Add a client  
+3 - Removea client  
+4 - Show list of bank accounts  
+5 - Add bank account  
+6 - Remove bank account  
+7 - Transaction history  
+8 - Deposit money  
+9 - Withdraw money  
+10 - Perform money transfer  
+11 - Save/load from file  
 
 # How to run application
 
