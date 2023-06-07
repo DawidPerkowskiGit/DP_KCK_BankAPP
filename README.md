@@ -8,9 +8,9 @@
 ## General info
 
 This application uses mostly unchanged backend logic from my other project. This project implements new UI. You can navigate trough menu using arrow keys and can type required input in text boxes. Github link to the project:
-```
+
 https://github.com/DawidPerkowskiGit/DP_PO_ProjektBank
-```
+
 ## Technologies
 Java 8, Maven, Lanterna, Maven assembly plugin
 
