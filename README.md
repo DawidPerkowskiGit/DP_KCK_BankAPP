@@ -19,6 +19,9 @@ Java 8, Maven, Lanterna, Maven assembly plugin
 Using any command line interface perform tasks listed below.
 
 1. Clone the repository  
+```
+git clone https://github.com/DawidPerkowskiGit/DP_KCK_BankAPP
+```
 2. Compile the project using Maven  
 ```
 mvn compile
